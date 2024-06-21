@@ -1,0 +1,8 @@
+.background{
+    background-image: url('https://ph-files.imgix.net/feefa363-1973-48cb-bf9e-b681b379308e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024');
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
